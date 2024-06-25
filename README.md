@@ -8,8 +8,6 @@ This project aims to predict the likelihood of stroke based on health data using
 3. [Modeling and Evaluation](#modeling-and-evaluation)
 4. [Skills and Technologies Applied](#skills-and-technologies-applied)
 5. [Benefits of the Project](#benefits-of-the-project)
-6. [How to Use This Repository](#how-to-use-this-repository)
-7. [Future Enhancements](#future-enhancements)
 
 ## Introduction
 
@@ -153,7 +151,7 @@ study.optimize(objective, n_trials=50)
    - **Visualization:** Employed matplotlib and seaborn to visualize data distributions and model performance.
 
 ## Benefits of the Project
-1. **Enhanced Predictive Accuracy:
+1. **Enhanced Predictive Accuracy:**
    - Improved the accuracy of stroke prediction using advanced machine learning and deep learning techniques.
 2. **Application of Advanced Python Skills:**
    - Demonstrated the practical application of Python in handling real-world data, performing statistical analysis, and building predictive models.
